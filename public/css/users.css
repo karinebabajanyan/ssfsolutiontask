@@ -1,0 +1,15 @@
+.row{
+    margin-bottom: 10px;
+}
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
+.d-flex{
+    margin-top: 10px;
+}
+.search_friend{
+    margin-bottom: 10px;
+}
